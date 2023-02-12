@@ -31,7 +31,7 @@ export default function Form() {
       <h1>
         Hi, {firstName} {lastName}
       </h1>
-      <button onClick={handleReset}>Reset</button>
+      <button onClick={handleReset}>Reset Form</button>
     </form>
   );
 }
